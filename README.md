@@ -72,9 +72,9 @@ Management Information Systems Student & Aspiring Data Scientist
 
 | Model                 | Test R² Score |
 |-----------------------|---------------|
-| Linear Regression     | 0.72          |
-| Random Forest         | 0.84          |
-| Optimized RandomForest| 0.87          |
+| Linear Regression     | 0.66          |
+| Random Forest         | 0.81          |
+| Optimized RandomForest| 0.82          |
 
 *(Your actual scores may vary based on runs and parameter settings.)*
 
